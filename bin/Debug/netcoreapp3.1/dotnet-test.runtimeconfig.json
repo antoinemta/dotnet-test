@@ -1,5 +1,8 @@
 {
   "runtimeOptions": {
+    "configProperties": {
+      "System.Globalization.Invariant": true
+    },
     "tfm": "netcoreapp3.1",
     "framework": {
       "name": "Microsoft.NETCore.App",
