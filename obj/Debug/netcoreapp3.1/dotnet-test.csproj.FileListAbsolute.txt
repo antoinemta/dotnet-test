@@ -1,0 +1,13 @@
+/home/antoine/projects/dotnet-test/bin/Debug/netcoreapp3.1/dotnet-test
+/home/antoine/projects/dotnet-test/bin/Debug/netcoreapp3.1/dotnet-test.deps.json
+/home/antoine/projects/dotnet-test/bin/Debug/netcoreapp3.1/dotnet-test.runtimeconfig.json
+/home/antoine/projects/dotnet-test/bin/Debug/netcoreapp3.1/dotnet-test.runtimeconfig.dev.json
+/home/antoine/projects/dotnet-test/bin/Debug/netcoreapp3.1/dotnet-test.dll
+/home/antoine/projects/dotnet-test/bin/Debug/netcoreapp3.1/dotnet-test.pdb
+/home/antoine/projects/dotnet-test/obj/Debug/netcoreapp3.1/dotnet-test.csprojAssemblyReference.cache
+/home/antoine/projects/dotnet-test/obj/Debug/netcoreapp3.1/dotnet-test.AssemblyInfoInputs.cache
+/home/antoine/projects/dotnet-test/obj/Debug/netcoreapp3.1/dotnet-test.AssemblyInfo.cs
+/home/antoine/projects/dotnet-test/obj/Debug/netcoreapp3.1/dotnet-test.csproj.CoreCompileInputs.cache
+/home/antoine/projects/dotnet-test/obj/Debug/netcoreapp3.1/dotnet-test.dll
+/home/antoine/projects/dotnet-test/obj/Debug/netcoreapp3.1/dotnet-test.pdb
+/home/antoine/projects/dotnet-test/obj/Debug/netcoreapp3.1/dotnet-test.genruntimeconfig.cache
